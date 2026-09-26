@@ -191,11 +191,11 @@ An Android application for detecting rice leaf diseases using a machine-learning
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=mohmdsajawl&show_icons=true&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats-sepia-omega-z70kyk2jyg.vercel.app/api?username=mohmdsajawl&show_icons=true&theme=tokyonight&hide_border=true"
     height="165"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohmdsajawl&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats-sepia-omega-z70kyk2jyg.vercel.app/api/top-langs/?username=mohmdsajawl&layout=compact&theme=tokyonight&hide_border=true"
     height="165"
   />
 </p>
@@ -204,19 +204,31 @@ An Android application for detecting rice leaf diseases using a machine-learning
 
 ## 🤝 Let's Connect
 
-<p align="center">
-  <a href="https://linkedin.com/in/mohmd-sajawal">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-Muhammad%20Sajawal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-    />
-  </a>
-
-  <a href="mailto:mohmd.sajawl@gmail.com">
-    <img
-      src="https://img.shields.io/badge/Email-mohmd.sajawl%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-    />
-  </a>
-</p>
+<table align="center" cellpadding="12" cellspacing="0">
+  <tr>
+    <td align="center">
+      <a href="https://linkedin.com/in/mohmd-sajawal">
+        <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+      </a>
+      <br/>
+      <sub>LinkedIn</sub>
+    </td>
+    <td align="center">
+      <a href="mailto:mohmd.sajawl@gmail.com">
+        <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
+      </a>
+      <br/>
+      <sub>Gmail</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/mohmdsajawl">
+        <img src="https://skillicons.dev/icons?i=github" height="50"/>
+      </a>
+      <br/>
+      <sub>GitHub</sub>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <i>Building, learning, and shipping better mobile experiences.</i>
